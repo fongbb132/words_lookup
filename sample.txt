@@ -1,0 +1,435 @@
+plangent [adjective]  
+	def:  having a loud reverberating sound; having an expressive and especially plaintive quality; 
+
+ seldom [adverb]  
+	def:  in few instances; 
+ 	synonyms:  rarely, infrequently, 
+
+ nugatory [adjective]  
+	def:  of little or no consequence; having no force; 
+ 	synonyms:  trifling, inconsequential, inoperative, 
+
+ contentious [adjective]  
+	def:  likely to cause disagreement or argument; exhibiting an often; 
+
+ denouement [noun]  
+	def:  the final outcome of the main dramatic complication in a literary work; the outcome of a complex sequence of events; 
+
+ pedantic [adjective]  
+	def:  of, relating to, or being a; narrowly,; 
+ 	synonyms:  unimaginative, pedestrian, 
+
+ erudite [adjective]  
+	def:  having or showing knowledge that is gained by studyingpossessing or displaying; 
+
+ antediluvian [adjective]  
+	def:  of or relating to the period before the flood described in the Bible; made, evolved, or developed a long time ago; extremely primitive or outmoded; 
+
+ pusillanimous [adjective]  
+	def:  lacking courage and resolutionmarked by contemptible timidity; 
+
+ jejune [adjective]  
+	def:  lacking nutritive value; devoid of significance or interest; 
+ 	synonyms:  dull, juvenile, puerile, 
+
+ insurgency [noun]  
+	def:  the quality or state of being; a condition of revolt against a government that is less than an organized revolution and that is not recognized as belligerency; 
+ 	synonyms:  insurgence, 
+
+ perilous [adjective]  
+	def:  full of or involving; 
+
+ aqueous [adjective]  
+	def:  of, relating to, or resembling water; made from, with, or by water; of or relating to the aqueous humor; 
+
+ discordance [noun]  
+	def:  the state or an instance of being; 
+ 	synonyms:  dissonance, 
+
+ imbibe [verb]  
+	def:  to receive into the mind and retain; to assimilate or take into solution; to take in or up; to take in liquid; to absorb or assimilate moisture, gas, light, or heat; 
+ 	synonyms:  soak, steep, drink, drink, 
+
+ disencumber [verb]  
+	def:  to free from encumbrance; 
+ 	synonyms:  disburden, 
+
+ superannuate [verb]  
+	def:  to make, declare, or prove obsolete or out-of-date; to retire and pension because of age or infirmity; to become retired; to become antiquated; 
+
+ 
+
+ apocryphal [adjective]  
+	def:  of; of or resembling the; 
+ 	synonyms:  spurious, 
+
+ heresy [noun]  
+	def:  adherence to a religious opinion contrary to church dogma; denial of a revealed truth by a baptized member of the Roman Catholic Church; an opinion or doctrine contrary to church dogma; dissent or deviation from a dominant theory, opinion, or practice; an opinion, doctrine, or practice contrary to the truth or to generally accepted beliefs or standards; 
+
+ demarcate [verb]  
+	def:  to set apart; 
+ 	synonyms:  delimit, distinguish, 
+
+ antedate [noun]  
+	def:  a date assigned to an event or document earlier than the actual date of the event or document; 
+
+ acrimonious [adjective]  
+	def:  
+
+ benignant [adjective]  
+	def:  serenely mild and kindly; 
+ 	synonyms:  benign, favorable, beneficial, 
+
+ inure [verb]  
+	def:  to accustom to accept something undesirable; to become of advantage; 
+
+ deviant [adjective]  
+	def:  
+
+ foreboding [noun]  
+	def:  the act of one who; an omen, prediction, or presentiment especially of coming evil; 
+ 	synonyms:  portent, 
+
+ bombast [noun]  
+	def:  pretentious inflated speech or writing; 
+
+ superfluous [adjective]  
+	def:  exceeding what is; not needed; marked by wastefulness; 
+ 	synonyms:  extra, unnecessary, extravagant, 
+
+ laconic [adjective]  
+	def:  using or involving the use of a minimum of words; 
+
+ garrulous [adjective]  
+	def:  given to prosy, rambling, or tedious; 
+ 	synonyms:  wordy, 
+
+ ascetic [adjective]  
+	def:  practicing strict; 
+
+ detestable [adjective]  
+	def:  arousing or meriting intense dislike; 
+ 	synonyms:  abominable, 
+
+ sidereal [adjective]  
+	def:  of, relating to, or expressed in relation to stars or constellations; 
+ 	synonyms:  astral, 
+
+ maladjusted [adjective]  
+	def:  poorly or inadequately adjusted; lacking harmony with one's environment from failure to adjust one's desires to the conditions of one's life; 
+
+ incredulous [adjective]  
+	def:  unwilling to admit or accept what is offered as truenot; expressing; 
+ 	synonyms:  skeptical, incredible, 
+
+ prodigious [adjective]  
+	def:  being an omen; resembling or befitting a; exciting amazement or wonder; extraordinary in; 
+ 	synonyms:  portentous, strange, unusual, enormous, 
+
+ exasperation [noun]  
+	def:  the state of being; the act or an instance of; 
+
+ stolid [adjective]  
+	def:  having or expressing little or no sensibility; 
+ 	synonyms:  unemotional, 
+
+ fickle [adjective]  
+	def:  marked by lack of steadfastness, constancy, or stabilitygiven to; 
+
+ abominable [adjective]  
+	def:  worthy of or causing disgust or hatred; quite disagreeable or unpleasant; 
+ 	synonyms:  detestable, 
+
+ predestine [verb]  
+	def:  to destine, decree, determine, appoint, or settle beforehand; 
+ 	synonyms:  predestinate, 
+
+ commensurate [adjective]  
+	def:  equal in measure or extent; corresponding in size,; 
+ 	synonyms:  coextensive, proportionate, commensurable, 
+
+ 
+
+ 
+
+ 
+
+ aback [adverb]  
+	def:  in a position to catch the wind upon the forward surface (as of a sail); by surprise; 
+ 	synonyms:  backward, back, unawares, 
+
+ fluster [verb]  
+	def:  to make tipsy; to put into a state of agitated confusion; to move or behave in an agitated or confused manner; 
+ 	synonyms:  upset, 
+
+ conduit [noun]  
+	def:  a natural or artificial channel through which something (as a fluid) is conveyed; a pipe, tube, or tile for protecting electric wires or cables; a means of transmitting or distributing; 
+ 	synonyms:  fountain, 
+
+ beseech [verb]  
+	def:  to beg for urgently or anxiously; to request earnestly; to make supplication; 
+ 	synonyms:  implore, 
+
+ fluster [verb]  
+	def:  to make tipsy; to put into a state of agitated confusion; to move or behave in an agitated or confused manner; 
+ 	synonyms:  upset, 
+
+ prerogative [noun]  
+	def:  an exclusive or special right, power, or; one belonging to an office or an official body; one belonging to a person, group, or class of individuals; one possessed by a nation as an attribute of; the discretionary power; a distinctive excellence; 
+
+ plight [verb]  
+	def:  to put or give in; 
+ 	synonyms:  engage, 
+
+ ineluctable [adjective]  
+	def:  not to be avoided, changed, or resisted; 
+ 	synonyms:  inevitable, 
+
+ invidious [adjective]  
+	def:  tending to cause discontent, animosity, or envy; of an unpleasant or objectionable nature; of a kind to cause harm or resentment; 
+ 	synonyms:  envious, obnoxious, 
+
+ cloying [adjective]  
+	def:  disgusting or distasteful by reason of excess; excessively sweet or sentimental; 
+
+ prose [noun]  
+	def:  the ordinary language people use in speaking or writing; a literary medium distinguished from; a dull or ordinary style, quality, or condition; 
+
+ unabashed [adjective]  
+	def:  not abashed; 
+ 	synonyms:  undisguised, unapologetic, 
+
+ hedonism [noun]  
+	def:  the doctrine that pleasure or happiness is the sole or chief good in life; a way of life based on or suggesting the principles of hedonism; 
+
+ transgression [noun]  
+	def:  an act, process, or instance of; infringement or violation of a law, command, or duty; the spread of the sea over land areas and the consequent unconformable deposit of sediments on older rocks; 
+
+ genteel [adjective]  
+	def:  having an aristocratic quality or flavor; of or relating to the; elegant or graceful in manner, appearance, or shape; free from vulgarity or rudeness; maintaining or striving to maintain the appearance of superior or middle-class social status or respectability; marked by false delicacy, prudery, or affectation; conventionally or insipidly pretty; 
+ 	synonyms:  stylish, polite, 
+
+ lambaste [verb]  
+	def:  to assault violently; to attack verbally; 
+ 	synonyms:  beat, whip, censure, 
+
+ overt [adjective]  
+	def:  open to view; 
+ 	synonyms:  manifest, 
+
+ lachrymose [adjective]  
+	def:  given to tears or weeping; tending to cause tears; 
+ 	synonyms:  tearful, mournful, 
+
+ reverent [adjective]  
+	def:  expressing or characterized by; 
+ 	synonyms:  worshipful, 
+
+ augury [noun]  
+	def:  divination from auspices or omens; an instance of this; 
+ 	synonyms:  omen, portent, 
+
+ taxonomy [noun]  
+	def:  the study of the general principles of scientific classification; orderly classification of plants and animals according to their presumed natural relationships; 
+ 	synonyms:  systematics, classification, 
+
+ arcane [adjective]  
+	def:  known or knowable only to the initiate; 
+ 	synonyms:  secret, mysterious, obscure, 
+
+ cynic [noun]  
+	def:  an adherent of an ancient Greek school of philosophers who held the view that virtue is the only good and that its essence lies in self-control and independence; a faultfinding captious critic; one who believes that human conduct is motivated wholly by self-interest; 
+
+ precocious [adjective]  
+	def:  exceptionally; exhibiting mature qualities at an unusually early age; 
+
+ parsimony [noun]  
+	def:  the quality of being careful with money or resources; the quality or state of being stingy; economy in the use of means to an end; economy of explanation in conformity with Occam's razor; 
+ 	synonyms:  thrift, 
+
+ ignoble [adjective]  
+	def:  of low birth or common origin; characterized by baseness, lowness, or meanness; 
+ 	synonyms:  plebeian, 
+
+ antipathy [noun]  
+	def:  opposition in feeling; settled aversion or dislike; an object of aversion; 
+
+ probity [noun]  
+	def:  adherence to the highest principles and ideals; 
+ 	synonyms:  uprightness, 
+
+ 
+
+ 
+
+ predilection [noun]  
+	def:  an established; 
+
+ florid [adjective]  
+	def:  covered with flowers; very flowery in style; having a florid style; elaborately decorated; tinged with red; marked by emotional or sexual fervor; fully developedmanifesting a complete and typical clinical syndrome; 
+ 	synonyms:  ornate, ruddy, healthy, 
+
+ incurable [adjective]  
+	def:  not curable; not likely to be changed or corrected; 
+
+ chide [verb]  
+	def:  to speak out in angry or displeased rebuke; to voice disapproval toreproach in a usually mild and constructive manner; 
+ 	synonyms:  scold, 
+
+ inept [adjective]  
+	def:  lacking in fitness or; lacking sense or reason; not suitable to the time, place, or occasioninappropriate often to an; generally; 
+ 	synonyms:  unfit, foolish, bungling, 
+
+ astute [adjective]  
+	def:  having or showing shrewdness and; 
+ 	synonyms:  crafty, wily, 
+
+ morose [adjective]  
+	def:  having a sullen and gloomy; marked by or expressive of; 
+
+ maladroit [adjective]  
+	def:  lacking adroitness; 
+ 	synonyms:  inept, 
+
+ sanguine [adjective]  
+	def:  consisting of or relating to blood; having blood as the predominating bodily; having the bodily; 
+ 	synonyms:  bloodred, bloodthirsty, sanguinary, ruddy, confident, optimistic, 
+
+ choleric [adjective]  
+	def:  easily moved to often unreasonable or excessive angerhot-tempered; 
+ 	synonyms:  angry, irate, 
+
+ genotype [noun]  
+	def:  all or part of the genetic constitution of an individual or group; 
+ 	synonyms:  type species, 
+
+ physiognomy [noun]  
+	def:  the art of discovering temperament and character from outward appearance; the facial features held to show qualities of mind or character by their configuration or expression; external aspect; inner character or quality revealed outwardly; 
+
+ fiasco [noun]  
+	def:  a complete failure; 
+
+ hindrance [noun]  
+	def:  the state of being; the action of; 
+ 	synonyms:  impediment, 
+
+ debacle [noun]  
+	def:  a; a violent; a great; a complete failure; 
+ 	synonyms:  rout, fiasco, 
+
+ extirpate [verb]  
+	def:  to destroy completely; to pull up by the root; to cut out by surgery; 
+ 	synonyms:  wipe out, 
+
+ conjecture [noun]  
+	def:  interpretation of omens; a conclusion; a proposition (as in mathematics) before it has been proved or disproved; 
+ 	synonyms:  supposition, 
+
+ covenant [noun]  
+	def:  a usually formal, solemn, and binding agreement; a written agreement or promise usually under seal between two or more parties especially for the performance of some action; the common-law action to recover damages for breach of such a contract; 
+ 	synonyms:  compact, 
+
+ relegate [verb]  
+	def:  to send into exile; to assign to a place of insignificance or of oblivionput out of sight or mind; to assign to an appropriate place or situation on the basis of classification or appraisal; to submit to someone or something for appropriate action; to transfer (a sports team) to a lower ranking division; 
+ 	synonyms:  banish, assign, delegate, 
+
+ denunciation [noun]  
+	def:  an act of denouncing; a public condemnation; 
+
+ antiquated [adjective]  
+	def:  outmoded or discredited by reason of agebeing out of style or fashion; advanced in age; 
+ 	synonyms:  obsolete, 
+
+ intractable [adjective]  
+	def:  not easily governed, managed, or directed; not easily manipulated or; not easily relieved or cured; 
+
+ nascent [adjective]  
+	def:  coming or having recently come into; 
+
+ innate [adjective]  
+	def:  existing in, belonging to, or determined by factors present in an individual from birth; belonging to the; originating in or derived from the mind or the constitution of the intellect rather than from experience; 
+ 	synonyms:  native, inborn, inherent, 
+
+ lackluster [adjective]  
+	def:  
+ 	synonyms:  dull, mediocre, 
+
+ inveterate [adjective]  
+	def:  firmly established by long persistence; confirmed in a habit; 
+ 	synonyms:  habitual, 
+
+ timorous [adjective]  
+	def:  of a timid disposition; expressing or suggesting timidity; 
+ 	synonyms:  fearful, 
+
+ turgid [adjective]  
+	def:  being in a state of distension; exhibiting; excessively embellished in style or language; 
+ 	synonyms:  swollen, tumid, bombastic, pompous, 
+
+ cow [verb]  
+	def:  to destroy the resolve or courage of; to bring to a state or an action by intimidation; 
+
+ repatriate [verb]  
+	def:  to restore or return to the country of origin, allegiance, or citizenship; 
+
+ extradite [verb]  
+	def:  to deliver up to; to obtain the extradition of; 
+
+ interdict [noun]  
+	def:  a Roman Catholic ecclesiastical censure withdrawing most sacraments and Christian burial from a person or district; a prohibitory decree; 
+
+ expurgate [verb]  
+	def:  to cleanse of something morally harmful, offensive, or erroneous; to; 
+
+ poised [adjective]  
+	def:  having; marked by balance or equilibrium; marked by easy composure of manner or bearing; 
+
+ malediction [noun]  
+	def:  
+ 	synonyms:  curse, execration, 
+
+ malign [adjective]  
+	def:  evil in nature, influence, or effect; having or showing intense often vicious ill will; 
+ 	synonyms:  injurious, malignant, virulent, malevolent, 
+
+ malfeasance [noun]  
+	def:  wrongdoing or misconduct especially by a public official; 
+
+ pulchritude [noun]  
+	def:  physical comeliness; 
+
+ indigence [noun]  
+	def:  a level of poverty in which real hardship and deprivation are suffered and comforts of life are wholly lacking; 
+
+ opulence [noun]  
+	def:  
+ 	synonyms:  wealth, affluence, abundance, profusion, 
+
+ eminence [noun]  
+	def:  a position of prominence or superiority; one that is; an anatomical protuberance (as on a bone); a person of high rank or attainments; a natural elevation; 
+
+ penury [noun]  
+	def:  a cramping and oppressive lack of resources (as money); severe poverty; extreme and often niggardly frugality; 
+
+ complacency [noun]  
+	def:  self-satisfaction especially when accompanied by unawareness of actual dangers or deficiencies; an instance of usually; 
+
+ depravity [noun]  
+	def:  a corrupt act or practice; the quality or state of being; 
+
+ innocuous [adjective]  
+	def:  producing no injury; not likely to give offense or to arouse strong feelings or hostility; 
+ 	synonyms:  harmless, inoffensive, insipid, 
+
+ mundane [adjective]  
+	def:  of, relating to, or characteristic of the world; characterized by the practical,; 
+ 	synonyms:  commonplace, 
+
+ pernicious [adjective]  
+	def:  highly; 
+ 	synonyms:  deadly, wicked, 
+
+ polysyllabic [adjective]  
+	def:  having more than one and usually more than three syllables; characterized by words of many syllables; 
+
+ 
